@@ -1,0 +1,23 @@
+h1{
+    color: #000000;
+}
+
+h1 span{
+    color: #2988E0;
+}
+
+/* 
+
+id unico se agrega #
+class se pueden repetir
+y tambin se pueden usar varias
+en una sola etiqueta
+
+*/
+
+#navegacion{
+    background-color: aqua;
+}
+.navegacion-categorias{
+    background-color: brown;
+}
